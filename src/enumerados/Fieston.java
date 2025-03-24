@@ -1,0 +1,41 @@
+package enumerados;
+
+import java.util.Iterator;
+
+public class Fieston {
+	private String lugar;
+	private FinDe dia;
+	
+	
+	
+	//voy a crear un constructor para fieston
+	//antes tenia que preocuparme si Finde era String, etc, ahora con los enumerados no
+	public Fieston(String lugar, FinDe dia) {
+		super();
+		this.lugar = lugar;
+		this.dia = dia;
+	}
+	
+	@Override
+	public String toString() {
+		return "Fieston [lugar=" + lugar + ", dia=" + dia + "]";
+	}
+	
+	public static void main(String[] args) {
+		Fieston fieston = new Fieston ("Core", FinDe.SA);
+		System.out.println(fieston);
+		//.values para tener un array de enumerados
+		for (FinDe f : FinDe.values()) {
+			//System.out.println(f.getNombreEspañol());
+			System.out.println(f.presentacion());
+		}
+		FinDe.valueOf("SA");
+		//valuesOf("") le das un String y si ... te devuelve un enum
+		
+	}
+
+
+	
+	
+	
+}
