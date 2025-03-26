@@ -3,27 +3,28 @@
 
 La Programación Orientada a Objetos (POO) en Java es un paradigma fundamental que permite la creación de software modular, reutilizable y escalable. En esta segunda parte del aprendizaje sobre POO, profundizaremos en conceptos avanzados como herencia, polimorfismo, enumerados, clases estáticas, generics, y estructuras de datos avanzadas como ArrayList, Map y Set.
 
+
 ## ¿Qué encontrarás en este repositorio?
 
 Este repositorio está diseñado para quienes desean mejorar su comprensión de POO en Java. A través de ejemplos prácticos, se explicarán los siguientes temas clave:
 
-- Herencia: Reutilización de código mediante clases derivadas.
+- **Herencia**: Reutilización de código mediante clases derivadas.
 
-- Polimorfismo: Capacidad de un objeto de comportarse de diferentes maneras según el contexto.
+- **Polimorfismo**: Capacidad de un objeto de comportarse de diferentes maneras según el contexto.
 
-- Enumerados (Enums): Definición de conjuntos de constantes tipadas.
+- **Enumerados (Enums)**: Definición de conjuntos de constantes tipadas.
 
-- Clases estáticas: Uso de miembros estáticos para compartir datos y comportamientos comunes.
+- **Clases estáticas**: Uso de miembros estáticos para compartir datos y comportamientos comunes.
 
-- Generics (Clases Genéricas): Uso de clases y métodos genéricos para mayor flexibilidad y reutilización del código.
+- **Generics (Clases Genéricas)**: Uso de clases y métodos genéricos para mayor flexibilidad y reutilización del código.
 
-- Estructuras de datos avanzadas:
+- **Estructuras de datos avanzadas**:
 
-    - ArrayList: Colección dinámica que permite almacenar y manipular listas de elementos.
+    - <u>ArrayList</u>: Colección dinámica que permite almacenar y manipular listas de elementos.
 
-    - Map: Estructura clave-valor para asociar datos de manera eficiente.
+    - <u>Map</u>: Estructura clave-valor para asociar datos de manera eficiente.
 
-    - Set: Colección que no permite elementos duplicados, útil para conjuntos únicos.
+    - <u>Set</u>: Colección que no permite elementos duplicados, útil para conjuntos únicos.
 
 El objetivo es proporcionar ejemplos claros para visualizar de manera dinámica y práctica estos conceptos avanzados de Java.
 
