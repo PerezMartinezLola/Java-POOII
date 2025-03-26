@@ -20,11 +20,11 @@ Este repositorio está diseñado para quienes desean mejorar su comprensión de 
 
 - **Estructuras de datos avanzadas**:
 
-    - <u>ArrayList</u>: Colección dinámica que permite almacenar y manipular listas de elementos.
+    - _ArrayList_: Colección dinámica que permite almacenar y manipular listas de elementos.
 
-    - <u>Map</u>: Estructura clave-valor para asociar datos de manera eficiente.
+    - _Map_: Estructura clave-valor para asociar datos de manera eficiente.
 
-    - <u>Set</u>: Colección que no permite elementos duplicados, útil para conjuntos únicos.
+    - _Set_: Colección que no permite elementos duplicados, útil para conjuntos únicos.
 
 El objetivo es proporcionar ejemplos claros para visualizar de manera dinámica y práctica estos conceptos avanzados de Java.
 
